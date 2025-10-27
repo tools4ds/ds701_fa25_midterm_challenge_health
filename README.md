@@ -26,7 +26,7 @@ The dataset contains the following columns:
 
 ### Challenge Structure
 
-The assignment consists of **three parts**, totaling **100 points**.
+The assignment consists of **three parts**, totaling **220 points**.
 
 | Part | Title | Description | Points | Questions |
 |------|--------|--------------|---------|------------|
