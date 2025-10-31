@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ### Deliverables
 1. Complet the `ds701_midterm25_notebook.ipynb` notebook (submitted via Gradescope)
-2. The `submission.csv` file (uploaded to Kaggle)
+2. The `submission.csv` file (uploaded to [Kaggle](https://www.kaggle.com/t/cb8d97e49dc941d5884459977f0a2852))
 
 - Ensure your code is properly formatted, readable, and commented.
 - All visualizations should includs clear titles, proper axis labels, meaningful legends
@@ -101,6 +101,8 @@ Any violations of the AI generation or collaboration policy will be treated as a
 
 ## Submission
 
-**Kaggle Competition**: Stay tuned for Kaggle competition details.
+Submit your completed notebook to Gradescope.
 
-**Submission**: Refer to the Piazza (and eventually Gradescope) for exact submission deadlines.
+Submit your model predictions to Kaggle.
+
+[Kaggle Competition](https://www.kaggle.com/t/cb8d97e49dc941d5884459977f0a2852)
